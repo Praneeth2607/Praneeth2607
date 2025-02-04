@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Praneeth2607
+- 👋 Hi, I’m @Praneeth26
 - 👀 I’m interested in web devolopment and data analytics
 - 🌱 I’m currently learning BTech CSE-BDA
 - 💞️ I’m looking to collaborate on ...
