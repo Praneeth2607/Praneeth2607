@@ -1,4 +1,3 @@
-````
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:0891B2,100:0E7490&height=280&section=header&text=PRANEETH&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20Next.js%20Specialist&descAlignY=60&descSize=20"/>
@@ -111,4 +110,3 @@ const developer = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=100&section=footer" />
 
 </div>
-````
