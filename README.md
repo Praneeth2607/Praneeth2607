@@ -48,7 +48,7 @@ const developer = {
 
 ## 🚀 Projects
 
-**[Praneeth's Portfolio](https://praneeth-vp.vercel.app)** - My personal portfolio showcasing my work and skills
+**[Praneeth's Portfolio](https://praneethvp.vercel.app/)** - My personal portfolio showcasing my work and skills
 - Built with **Next.js 16** & **React 19**
 - Styled with **Tailwind CSS v4** for responsive design
 - Smooth animations with **Framer Motion**
